@@ -417,6 +417,7 @@ removed AS398721	#OXIO-ASN-01
 #2/4/2026 - Start of our maintaining the database.
 AS701 #UUNET, US
 AS43444 #BNS-AS, ZA - Fast Servers (Pty) Ltd
+AS47217 #PLANETEL-SPA, IT
 AS62005 #BV-EU-AS, EE BlueVPS OU
 AS394256 #CLOUDSINGULARITY, CA Tech Futures Interactive Inc.
 
