@@ -421,3 +421,5 @@ AS47217 #PLANETEL-SPA, IT
 AS62005 #BV-EU-AS, EE BlueVPS OU
 AS394256 #CLOUDSINGULARITY, CA Tech Futures Interactive Inc.
 
+#2/6/2026
+AS28855 #OCTOPUCE-AS Customers , FR Octopuce s.a.r.l. French ISP flagged as tor exit node
