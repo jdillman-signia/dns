@@ -1,3 +1,5 @@
+This is a clone of https://github.com/wallacebrf/dns/tree/main. I have disconnected the repo so I can control what gets added to the block list.
+
 ### 1.) ASN LIST Block List
 I block the ASN address ranges of a large number of server rental companies as a lot of "bad actors" use these servers to perform port scans and brute force attacks. 
 
